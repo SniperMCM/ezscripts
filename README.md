@@ -1,5 +1,7 @@
 Do this at your OWN risk as if you do not have permission, it is highly illegal to do so.
 
+FOR THE CONSOLE BLOWER:
+
 YES, Javascript DOES have an interval rate, so this may not work if you have any bugs DM me.
 
 HOW TO RETURN YOUR PC INTO NORMAL:
@@ -10,3 +12,7 @@ HOW TO RETURN YOUR PC INTO NORMAL:
 HOW TO USE:
 1. from code.js paste it into a console by CTRL + SHIFT + I
 2. watch it happen BUT do so at your own risk
+
+
+------------------------
+FOR THE ()
