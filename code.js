@@ -1,12 +1,12 @@
 function distributedConsoleLogs() {
-    const numberOfSources = 52345245435457394875923745872394875234234;
+    const numberOfSources = 5000;
 
     for (let i = 1; i <= numberOfSources; i++) {
         setTimeout(() => {
             setInterval(() => {
-                console.log(`Hello from source ${i}!`);
-            }, 0.00000000000000000000000000000000000000000000000000000000000001);
-        }, i * 0.00000000000000000000000000000000000000000000000000000000000001);
+                console.log(`this is basic version if you want the normal version check it out #${i}!`);
+            }, 0.1);
+        }, i * 0.1);
     }
 }
 
